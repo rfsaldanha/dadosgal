@@ -3,9 +3,9 @@ library(tidyverse)
 library(lubridate)
 
 # Pastas
-pasta_exames <- paste0(getwd(), "/dados/gal/exames/")
-pasta_virus <- paste0(getwd(), "/dados/gal/virus/")
-pasta_fx_etaria <- paste0(getwd(), "/dados/gal/fx_etaria/")
+pasta_exames <- "dados/exames/"
+pasta_virus <- "dados/virus/"
+pasta_fx_etaria <- "dados/fx_etaria/"
 
 # Exames
 files_exames <- list.files(pasta_exames, full.names = TRUE)

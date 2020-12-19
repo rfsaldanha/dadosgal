@@ -1,0 +1,68 @@
+﻿"UF de residência","Vírus","Nº de vírus identificados"
+"São Paulo","Coronavirus SARS-CoV2",46
+"São Paulo","Influenza A",5
+"São Paulo","Influenza B",5
+"São Paulo",Adenovirus,1
+Bahia,"Influenza A",28
+Bahia,"Coronavirus SARS-CoV2",3
+Bahia,"Influenza B",3
+Bahia,Adenovirus,1
+"Paraná",Rinovirus,13
+"Paraná","Influenza A",3
+"Paraná","Influenza B",3
+"Paraná","Coronavirus SARS-CoV2",2
+"Paraná","Coronavirus 229E",1
+"Paraná","Coronavirus HKU1",1
+"Paraná","Parainfluenza tipo 1",1
+"Paraná","Parainfluenza tipo 3",1
+"Ceará","Coronavirus SARS-CoV2",13
+"Ceará","Influenza A",6
+"Ceará","Influenza B",4
+Pernambuco,"Influenza A",6
+Pernambuco,"Influenza B",5
+Pernambuco,"Coronavirus SARS-CoV2",2
+Pernambuco,"Coronavirus NL63",1
+Pernambuco,Rinovirus,1
+Pernambuco,"Virus Sincicial Respiratorio",1
+"Goiás","Influenza A",4
+"Goiás","Influenza B",3
+"Goiás",Metapneumovirus,3
+"Goiás","Coronavirus SARS-CoV2",2
+"Goiás",Adenovirus,1
+"Goiás",Rinovirus,1
+"Goiás","Virus Sincicial Respiratorio",1
+"Minas Gerais","Influenza A",10
+"Minas Gerais","Influenza B",5
+"Rio Grande do Norte","Coronavirus SARS-CoV2",6
+"Rio Grande do Norte","Influenza A",4
+"Rio Grande do Norte","Influenza B",2
+"Santa Catarina","Influenza A",6
+"Santa Catarina","Influenza B",4
+"Santa Catarina","Coronavirus SARS-CoV2",2
+"Maranhão",Rinovirus,4
+"Maranhão","Influenza A",3
+"Maranhão","Influenza B",2
+"Maranhão","Coronavirus OC43",1
+"Maranhão","Coronavirus SARS-CoV2",1
+"Rio Grande do Sul","Coronavirus SARS-CoV2",9
+"Rio Grande do Sul","Influenza A",2
+"Espírito Santo","Influenza B",7
+"Espírito Santo","Influenza A",2
+Sergipe,"Coronavirus SARS-CoV2",4
+Sergipe,"Influenza A",2
+"Paraíba","Coronavirus SARS-CoV2",2
+"Paraíba",Rinovirus,2
+"Paraíba","Coronavirus NL63",1
+"Pará","Influenza A",3
+"Pará","Influenza B",1
+"Piauí","Influenza A",3
+"Piauí","Virus Sincicial Respiratorio",1
+Alagoas,"Coronavirus SARS-CoV2",3
+Amazonas,"Influenza A",1
+Amazonas,Metapneumovirus,1
+Tocantins,"Influenza A",2
+Acre,Rinovirus,1
+"Amapá",Adenovirus,1
+"Mato Grosso do Sul",Adenovirus,1
+"Rio de Janeiro","Coronavirus SARS-CoV2",1
+"Rondônia","Influenza A",1

@@ -3,10 +3,10 @@ library(tidyverse)
 library(RSelenium)
 
 # Pastas
-pasta <- paste0(getwd(), "/dados/gal/tmp/")
-pasta_exames <- paste0(getwd(), "/dados/gal/exames/")
-pasta_virus <- paste0(getwd(), "/dados/gal/virus/")
-pasta_fx_etaria <- paste0(getwd(), "/dados/gal/fx_etaria/")
+pasta <- "dados/tmp/"
+pasta_exames <- "dados/exames/"
+pasta_virus <- "dados/virus/"
+pasta_fx_etaria <- "dados/fx_etaria/"
 
 rD <- rsDriver(browser = "firefox", check = FALSE, verbose = FALSE, 
                extraCapabilities = list(

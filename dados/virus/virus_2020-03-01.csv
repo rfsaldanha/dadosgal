@@ -1,0 +1,33 @@
+﻿"UF de residência","Vírus","Nº de vírus identificados"
+"São Paulo","Influenza A",12
+"São Paulo","Influenza B",5
+"São Paulo","Coronavirus SARS-CoV2",2
+"Paraná",Rinovirus,6
+"Paraná","Influenza A",4
+"Paraná","Parainfluenza tipo 3",1
+"Paraná","Virus Sincicial Respiratorio",1
+"Minas Gerais","Influenza B",4
+"Minas Gerais","Influenza A",2
+"Minas Gerais",Bocavirus,1
+"Minas Gerais",Metapneumovirus,1
+"Ceará","Influenza B",3
+"Ceará","Influenza A",2
+"Rio de Janeiro","Influenza A",2
+"Rio de Janeiro","Influenza B",2
+"Rio de Janeiro",Rinovirus,1
+"Santa Catarina","Influenza A",4
+"Santa Catarina","Influenza B",1
+Bahia,"Influenza A",3
+Bahia,"Influenza B",1
+"Pará","Influenza A",2
+"Pará",Metapneumovirus,1
+Acre,"Influenza A",2
+"Mato Grosso do Sul","Coronavirus SARS-CoV2",1
+"Mato Grosso do Sul","Influenza B",1
+Tocantins,"Influenza A",2
+Amazonas,"Virus Sincicial Respiratorio",1
+"Espírito Santo",Rinovirus,1
+"Goiás",Metapneumovirus,1
+"Maranhão","Influenza A",1
+Pernambuco,"Influenza B",1
+"Rio Grande do Sul","Coronavirus SARS-CoV2",1

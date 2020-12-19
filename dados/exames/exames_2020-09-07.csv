@@ -1,0 +1,64 @@
+﻿"UF de residência",Resultados,"Nº de exames realizados"
+"São Paulo","Negativo / Não Detectável","1.995"
+"São Paulo","Positivo / Detectável","1.236"
+"São Paulo","Inconclusivo / Indeterminado",1
+"Paraná","Negativo / Não Detectável","1.874"
+"Paraná","Positivo / Detectável",861
+"Paraná","Inconclusivo / Indeterminado",3
+"Rio Grande do Sul","Negativo / Não Detectável",535
+"Rio Grande do Sul","Positivo / Detectável",316
+"Rio Grande do Sul","Inconclusivo / Indeterminado",1
+Bahia,"Negativo / Não Detectável",406
+Bahia,"Positivo / Detectável",196
+Bahia,"Inconclusivo / Indeterminado",4
+"Rio de Janeiro","Negativo / Não Detectável",295
+"Rio de Janeiro","Positivo / Detectável",288
+"Rio de Janeiro","Inconclusivo / Indeterminado",1
+"Santa Catarina","Negativo / Não Detectável",451
+"Santa Catarina","Positivo / Detectável",131
+"Mato Grosso do Sul","Negativo / Não Detectável",358
+"Mato Grosso do Sul","Positivo / Detectável",186
+"Mato Grosso do Sul","Inconclusivo / Indeterminado",1
+"Minas Gerais","Negativo / Não Detectável",305
+"Minas Gerais","Positivo / Detectável",205
+"Minas Gerais","Inconclusivo / Indeterminado",26
+"Ceará","Negativo / Não Detectável",356
+"Ceará","Positivo / Detectável",106
+"Espírito Santo","Negativo / Não Detectável",261
+"Espírito Santo","Positivo / Detectável",131
+"Espírito Santo","Inconclusivo / Indeterminado",4
+Tocantins,"Positivo / Detectável",240
+Tocantins,"Negativo / Não Detectável",110
+Tocantins,"Inconclusivo / Indeterminado",1
+Pernambuco,"Negativo / Não Detectável",282
+Pernambuco,"Positivo / Detectável",63
+"Rondônia","Negativo / Não Detectável",208
+"Rondônia","Positivo / Detectável",111
+Sergipe,"Negativo / Não Detectável",201
+Sergipe,"Positivo / Detectável",47
+"Rio Grande do Norte","Negativo / Não Detectável",147
+"Rio Grande do Norte","Positivo / Detectável",89
+"Goiás","Negativo / Não Detectável",75
+"Goiás","Positivo / Detectável",62
+"Piauí","Negativo / Não Detectável",59
+"Piauí","Positivo / Detectável",44
+"Paraíba","Negativo / Não Detectável",48
+"Paraíba","Positivo / Detectável",29
+"Pará","Negativo / Não Detectável",49
+"Pará","Positivo / Detectável",20
+"Pará","Inconclusivo / Indeterminado",1
+Amazonas,"Negativo / Não Detectável",41
+Amazonas,"Positivo / Detectável",20
+Acre,"Negativo / Não Detectável",43
+Acre,"Positivo / Detectável",14
+Alagoas,"Negativo / Não Detectável",37
+Alagoas,"Positivo / Detectável",11
+"Maranhão","Negativo / Não Detectável",38
+"Maranhão","Positivo / Detectável",10
+Roraima,"Negativo / Não Detectável",19
+Roraima,"Positivo / Detectável",3
+"Mato Grosso","Negativo / Não Detectável",6
+"Mato Grosso","Positivo / Detectável",3
+"Amapá","Negativo / Não Detectável",8
+"Distrito Federal","Negativo / Não Detectável",2
+"Distrito Federal","Positivo / Detectável",1

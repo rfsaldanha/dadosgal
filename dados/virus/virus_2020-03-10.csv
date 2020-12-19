@@ -1,0 +1,60 @@
+﻿"UF de residência","Vírus","Nº de vírus identificados"
+"São Paulo","Coronavirus SARS-CoV2",17
+"São Paulo","Influenza B",12
+"São Paulo","Influenza A",11
+"São Paulo","Virus Sincicial Respiratorio",1
+"Paraná",Rinovirus,15
+"Paraná","Coronavirus HKU1",2
+"Paraná","Influenza B",2
+"Paraná",Metapneumovirus,2
+"Paraná","Coronavirus NL63",1
+"Paraná","Coronavirus SARS-CoV2",1
+"Paraná","Parainfluenza tipo 3",1
+Bahia,"Influenza A",9
+Bahia,"Virus Sincicial Respiratorio",2
+Bahia,"Coronavirus HKU1",1
+Bahia,"Influenza B",1
+Bahia,"Parainfluenza tipo 4",1
+"Minas Gerais","Influenza A",8
+"Minas Gerais","Influenza B",6
+"Rio de Janeiro","Coronavirus SARS-CoV2",4
+"Rio de Janeiro","Influenza B",4
+"Rio de Janeiro","Influenza A",2
+"Rio de Janeiro",Metapneumovirus,1
+"Rio de Janeiro","Virus Sincicial Respiratorio",1
+Amazonas,Metapneumovirus,4
+Amazonas,"Influenza A",2
+Amazonas,"Influenza B",1
+Amazonas,"Parainfluenza tipo 3",1
+Amazonas,"Virus Sincicial Respiratorio",1
+"Mato Grosso do Sul",Metapneumovirus,4
+"Mato Grosso do Sul","Influenza A",2
+"Mato Grosso do Sul",Adenovirus,1
+"Mato Grosso do Sul","Influenza B",1
+"Mato Grosso do Sul","Virus Sincicial Respiratorio",1
+"Santa Catarina","Coronavirus SARS-CoV2",3
+"Santa Catarina","Influenza A",2
+"Santa Catarina","Influenza B",2
+"Santa Catarina",Rinovirus,1
+"Pará","Influenza A",6
+"Piauí","Influenza A",5
+"Piauí",Metapneumovirus,1
+"Ceará","Influenza B",4
+"Ceará","Influenza A",1
+"Espírito Santo","Influenza A",2
+"Espírito Santo","Virus Sincicial Respiratorio",2
+"Goiás",Metapneumovirus,2
+"Goiás","Coronavirus SARS-CoV2",1
+"Goiás","Influenza A",1
+Pernambuco,"Influenza A",4
+"Maranhão","Coronavirus SARS-CoV2",1
+"Maranhão","Influenza A",1
+"Maranhão","Influenza B",1
+"Paraíba","Influenza A",1
+"Paraíba","Influenza B",1
+"Paraíba",Rinovirus,1
+Sergipe,"Influenza A",2
+Sergipe,"Parainfluenza tipo 1",1
+Acre,"Influenza A",1
+"Rio Grande do Norte","Coronavirus SARS-CoV2",1
+Tocantins,"Influenza A",1

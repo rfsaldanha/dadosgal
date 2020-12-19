@@ -1,0 +1,55 @@
+﻿"UF de residência","Vírus","Nº de vírus identificados"
+Bahia,"Influenza A",9
+Bahia,"Influenza B",7
+Bahia,Rinovirus,5
+Bahia,"Coronavirus SARS-CoV2",2
+Bahia,Adenovirus,1
+Bahia,"Coronavirus HKU1",1
+Bahia,Enterovirus,1
+Bahia,"Virus Sincicial Respiratorio",1
+"São Paulo","Influenza B",14
+"São Paulo","Influenza A",9
+"São Paulo","Coronavirus SARS-CoV2",1
+"São Paulo",Rinovirus,1
+"Paraná",Rinovirus,16
+"Paraná","Influenza A",4
+"Paraná","Influenza B",2
+"Paraná","Coronavirus HKU1",1
+"Paraná","Parainfluenza tipo 1",1
+"Rio de Janeiro",Rinovirus,5
+"Rio de Janeiro","Influenza A",4
+"Rio de Janeiro","Influenza B",3
+"Rio de Janeiro",Metapneumovirus,3
+"Rio de Janeiro","Coronavirus HKU1",2
+"Rio de Janeiro","Coronavirus NL63",2
+"Rio de Janeiro",Adenovirus,1
+"Rio de Janeiro","Virus Sincicial Respiratorio",1
+"Minas Gerais","Influenza A",6
+"Minas Gerais","Influenza B",5
+"Ceará","Influenza B",6
+"Ceará","Influenza A",2
+"Ceará","Virus Sincicial Respiratorio",2
+"Goiás","Influenza A",2
+"Goiás",Metapneumovirus,2
+"Goiás",Rinovirus,2
+"Maranhão","Influenza A",5
+"Maranhão","Influenza B",1
+"Pará","Influenza A",3
+"Pará",Adenovirus,1
+"Pará",Rinovirus,1
+Amazonas,"Coronavirus HKU1",2
+Amazonas,"Virus Sincicial Respiratorio",2
+"Espírito Santo","Virus Sincicial Respiratorio",2
+"Espírito Santo","Influenza B",1
+"Espírito Santo",Rinovirus,1
+"Santa Catarina","Influenza A",4
+Pernambuco,"Coronavirus 229E",2
+Pernambuco,Rinovirus,1
+"Rio Grande do Sul","Influenza A",2
+"Rio Grande do Sul","Influenza B",1
+Alagoas,Rinovirus,2
+"Paraíba",Rinovirus,2
+"Piauí","Coronavirus SARS-CoV2",1
+"Piauí","Influenza A",1
+"Mato Grosso do Sul","Influenza A",1
+Sergipe,"Influenza B",1
